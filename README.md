@@ -28,10 +28,9 @@ npm run dev
 ```
 
 ## Live
-```
+
 https://noteballs-204a1.web.app/#/auth
 
-```
 
 ![vue-notes-pinia-1](https://github.com/GonzaloVolonterio/vue-notes-pinia/assets/64506662/e289cf56-7d10-45e8-af3b-151485a13d60)
 

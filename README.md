@@ -1,4 +1,4 @@
-# Vue Notes App with real database using Firebase and Pinia
+# Vue Notes App with real database using Firebase, Firebase-auth and Pinia
 
 ## Create a user for real database you can post, edit and delete notes.
 

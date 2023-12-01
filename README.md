@@ -5,7 +5,6 @@
 ## Built With
  ```
 Vue
-Vite
 Css
 Pinia
 Firebase

@@ -31,7 +31,6 @@ Vue
 Css
 Pinia
 Firebase
-
 ```
 
 ### Clone repo 🔧

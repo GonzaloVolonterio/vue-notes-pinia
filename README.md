@@ -3,7 +3,7 @@
 ## Create a user for real database: you can post, edit and delete notes.
 
 ## 🚀 Functionalities
-- **Sign Up/Login:** Ability to create new users and log in. If you prefer to log in with an existing user in the database (Login: hercilioluzs@gmail.com, Password: 161091).
+- **Sign Up/Login:** Ability to create new users and log in. If you prefer to log in with an existing user in the database
 
 - **Notes Creation:** Add your notes easily.
 

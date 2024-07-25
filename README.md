@@ -1,11 +1,11 @@
+# NoteBalls
+
 # Vue Notes App with real database using Firebase, Firebase-auth and Pinia
 
-## Create a user for real database: you can post, edit and delete notes.
-
 ## 🚀 Functionalities
-- **Sign Up/Login:** Ability to create new users and log in. If you prefer to log in with an existing user in the database
+- **Sign Up/Login:** Ability to create new users and log in. If you prefer to log in with an existing user in the database.
 
-- **Notes Creation:** Add your notes easily.
+- **Notes Creation:** Add your notes easily.Create a user for real database: you can post, edit and delete notes.
 
 - **Notes List:** View all your notes in an organized chronological list, with the latest posted always at the top, taking into account even milliseconds to avoid conflicts of notes posted at the same hour, minutes, and seconds.
 
